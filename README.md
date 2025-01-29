@@ -4,13 +4,13 @@
 
 ## Exercise 1
 
-Find the product of the digits of a 3-digit number.
+Find the greater of two given numbers.
 
 ---
 
 ## Exercise 2
 
-Find the greater of two given numbers.
+Find the product of the digits of a 3-digit number.
 
 ---
 
